@@ -1,0 +1,6 @@
+Event Name,Date,Time,Location,Attendees Limit,Organizer,Description,Theme,Registration Required,Registration Link
+Tech Conference,15-05-24,10:00 AM,Convention Center,300,Tech Society,Annual Tech Conference,AI ad Robotics,Yes,http://example.com/tech-conference
+Startup Pitch,20-05-24,2:00 PM,Startup Hub,50,Startup Incubator,Pitch your statrtup idea,Innovation,Yes,http://example.com/startup-pitch
+Art Exhibition,10-06-24,11:00 AM,Art Gallery,100,Art Society,Showcase of local artists,Modern Art,No,N/A
+Music Concert,12-06-24,7:30 PM,Amphitheater,500,Music Society,Live Music Performance,Rock and Pop,Yes,http://example.con/music-concert
+Food Festival,25-06-24,12:00 PM,Downtown Square,1000,Food Association,Food tasting and vendors,Culinary Arts,No,N/A

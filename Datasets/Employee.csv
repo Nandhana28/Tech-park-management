@@ -1,0 +1,11 @@
+Name,EmployeeID,YearsOfExperience,DateOfJoin,Department,Designation,Availability,TeamName,WorkAssigned,Salary,WorkHours,Qualification
+John Doe,10EMP30,5,12-01-2017,Stock,Team leader,Day,A,Lead team A,100000,8,Bachelors
+Emily Smith,20EMP34,7,17-09-2013,Engineering,Engineer,Night,Zec,Design,150000,9,Bachelors
+Mohammed Khan,10EMP96,2,28-06-2014,Stock,Dept Head,Night,A,Management of teams,200000,6,Bachelors
+Anna Johnson,10EMP100,10,30-12-2016,Engineering,Programmer,Day,Zec,Program new software,250000,9,Masters
+Carlos Rodriguez,20EMP10,6,01-01-2017,Stock,Data Analyst,Day,A,Analyse current data flow,30000,5,Masters
+Jessica Martinez,50EMP11,5,16-02-2020,Cleaning Service,Cleaner,Day,Cleaning team,Clean floors and restrooms,8000,10,12th Pass
+Sophia Nguyen,50EMP88,4,20-08-2015,Cleaning Service,Restocker,Day,Cleaning team,Restock water suppliers,11000,2,11th Pass
+Christopher Anderson,70EMP45,8,06-04-2010,Security,Watchman,Day,Guard,Guard the compound,20000,8,10th Pass
+Amanda Hernandez,80EMP29,11,19-03-2005,Lift Maintenance,Lift security,Day,Guard,Guard from lift risks,9000,7,11th Pass
+Mia Jackson,70EMP90,7,31-04-2000,Security,Watchman,Night,Guard,Guard the compound,25000,5,12th Pass
