@@ -1,4 +1,51 @@
 Object Repaired,Repair Charge,Object Brand,Company Repaired,Date,Number of components,Person Name
-Server Rack,$500 ,Cisco,TechSolutions Inc.,15-04-2024,20,Alex Johnson
-Networking Switch,$300 ,Juniper,NetWorks Ltd.,16-04-2024,12,Sarah Lee
-CCTV System,$700 ,Hikvision,SecureTech Solutions,14-04-2024,25,David Miller
+Server Rack,$500,Cisco,TechSolutions Inc.,15-04-2023,20,Alex Johnson
+Networking Switch,$300,Juniper,NetWorks Ltd.,16-04-2023,12,Sarah Lee
+CCTV System,$700,Hikvision,SecureTech Solutions,14-04-2023,25,David Miller
+Air Conditioning Unit,$450,Daikin,Tech Innovations Inc.,22-05-2023,15,Michael Chen
+Desktop Computer,$200,Dell,BioTech Solutions Ltd.,10-06-2023,8,Emma Wilson
+Printer,$150,HP,CleanEnergy Technologies,18-07-2023,6,James Brown
+Projector,$350,Epson,RoboWorks Robotics,25-08-2023,10,Olivia Davis
+Router,$180,TP-Link,Data Tech Analytics,05-09-2023,7,William Garcia
+UPS System,$600,APC,TechSolutions Inc.,12-10-2023,18,Sophia Martinez
+Fire Alarm System,$800,Honeywell,NetWorks Ltd.,20-11-2023,30,Liam Rodriguez
+Access Control System,$550,HID,SecureTech Solutions,08-12-2023,22,Ava Anderson
+Elevator System,$1200,Otis,Tech Innovations Inc.,15-01-2023,45,Noah Thomas
+Water Cooler,$120,Culligan,BioTech Solutions Ltd.,22-02-2023,5,Isabella Taylor
+LED Lighting,$250,Philips,CleanEnergy Technologies,10-03-2023,12,Ethan Moore
+Conference Phone,$280,Polycom,RoboWorks Robotics,18-04-2023,9,Mia Jackson
+Laptop,$350,Lenovo,Data Tech Analytics,25-05-2023,11,Lucas White
+Scanner,$180,Canon,TechSolutions Inc.,02-06-2023,6,Charlotte Harris
+Whiteboard,$90,Smart,NetWorks Ltd.,10-07-2023,3,Benjamin Martin
+Coffee Machine,$220,Nespresso,SecureTech Solutions,18-08-2023,8,Amelia Thompson
+Microwave,$130,Samsung,Tech Innovations Inc.,25-09-2023,5,Henry Garcia
+Refrigerator,$400,LG,BioTech Solutions Ltd.,02-10-2023,14,Harper Martinez
+Vending Machine,$650,Coca-Cola,CleanEnergy Technologies,10-11-2023,20,Alexander Robinson
+Security Camera,$320,Axis,RoboWorks Robotics,18-12-2023,13,Evelyn Clark
+Door Lock System,$280,Yale,Data Tech Analytics,05-01-2023,10,Sebastian Rodriguez
+Intercom System,$380,Aiphone,TechSolutions Inc.,12-02-2023,15,Abigail Lewis
+Smoke Detector,$150,Kidde,NetWorks Ltd.,20-03-2023,8,Jackson Lee
+Emergency Lights,$200,Lithonia,SecureTech Solutions,28-04-2023,10,Emily Walker
+Backup Generator,$1500,Generac,Tech Innovations Inc.,05-05-2023,50,Michael Hall
+Solar Panels,$2000,SunPower,BioTech Solutions Ltd.,12-06-2023,60,Ella Allen
+Water Heater,$450,Rheem,CleanEnergy Technologies,20-07-2023,16,Daniel Young
+HVAC System,$900,Carrier,RoboWorks Robotics,28-08-2023,35,Madison Hernandez
+Plumbing System,$350,Kohler,Data Tech Analytics,05-09-2023,12,Matthew King
+Electrical Panel,$500,Siemens,TechSolutions Inc.,12-10-2023,20,Scarlett Wright
+Network Cable,$180,Belkin,NetWorks Ltd.,20-11-2023,25,Joseph Lopez
+Fiber Optic Cable,$400,Corning,SecureTech Solutions,28-12-2023,30,Victoria Hill
+Workstation Desk,$250,Steelcase,Tech Innovations Inc.,05-01-2023,8,David Scott
+Office Chair,$180,Herman Miller,BioTech Solutions Ltd.,12-02-2023,6,Grace Green
+Filing Cabinet,$120,HON,CleanEnergy Technologies,20-03-2023,4,Samuel Adams
+Shredder,$150,Fellowes,RoboWorks Robotics,28-04-2023,7,Chloe Baker
+Laminator,$100,Scotch,Data Tech Analytics,05-05-2023,5,Ryan Nelson
+Binding Machine,$130,GBC,TechSolutions Inc.,12-06-2023,6,Zoey Carter
+Label Maker,$80,Brother,NetWorks Ltd.,20-07-2023,3,Nathan Mitchell
+Time Clock,$200,Lathem,SecureTech Solutions,28-08-2023,8,Lily Perez
+Badge Printer,$350,Fargo,Tech Innovations Inc.,05-09-2023,12,Christian Roberts
+Barcode Scanner,$120,Zebra,BioTech Solutions Ltd.,12-10-2023,5,Hannah Turner
+POS Terminal,$400,Square,CleanEnergy Technologies,20-11-2023,15,Andrew Phillips
+Cash Register,$300,Sharp,RoboWorks Robotics,28-12-2023,10,Addison Campbell
+Credit Card Reader,$150,Ingenico,Data Tech Analytics,05-01-2023,6,Joshua Parker
+Receipt Printer,$180,Star Micronics,TechSolutions Inc.,12-02-2023,7,Natalie Evans
+Digital Signage,$500,Samsung,NetWorks Ltd.,20-03-2023,18,Christopher Edwards

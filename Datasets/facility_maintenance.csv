@@ -1,0 +1,16 @@
+MaintenanceID,FacilityType,Description,ScheduledDate,CompletionStatus,AssignedStaff
+MAINT001,HVAC System,Annual AC maintenance and filter replacement,15-01-2024,Completed,James Miller
+MAINT002,Elevator,Quarterly lift inspection and cable check,20-01-2024,Completed,Amanda Hernandez
+MAINT003,Fire Safety,Fire extinguisher inspection and refill,25-01-2024,Completed,Christopher Anderson
+MAINT004,Plumbing,Water leak repair on Floor 3,10-02-2024,Completed,James Miller
+MAINT005,Electrical,Emergency lighting system check,15-02-2024,Completed,Steven Walker
+MAINT006,CCTV,Camera maintenance and storage upgrade,20-02-2024,Completed,Christopher Anderson
+MAINT007,Generator,Backup generator testing and fuel check,25-02-2024,Completed,James Miller
+MAINT008,Elevator,Lift B2 motor replacement,05-03-2024,In Progress,Amanda Hernandez
+MAINT009,HVAC System,Cooling tower cleaning,10-03-2024,Scheduled,James Miller
+MAINT010,Fire Safety,Fire alarm system upgrade,15-03-2024,Scheduled,Christopher Anderson
+MAINT011,Plumbing,Washroom renovation Floor 5,20-03-2024,Scheduled,James Miller
+MAINT012,Electrical,Solar panel cleaning,25-03-2024,Scheduled,Steven Walker
+MAINT013,CCTV,New camera installation Floor 9,30-03-2024,Scheduled,Christopher Anderson
+MAINT014,Parking,Parking lot resurfacing,05-04-2024,Scheduled,Steven Walker
+MAINT015,Landscaping,Garden maintenance and tree trimming,10-04-2024,Scheduled,James Miller

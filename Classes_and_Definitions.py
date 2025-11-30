@@ -10,7 +10,6 @@ class Building:
         self.NoOfCCTV = no_of_cctv
         self.Security = security
 
-    # Getter methods
     def get_name(self):
         return self.Name
 
@@ -38,7 +37,6 @@ class Building:
     def get_security(self):
         return self.Security
 
-    # Setter methods
     def set_name(self, name):
         self.Name = name
 
@@ -67,10 +65,6 @@ class Building:
         self.Security = security
 
         
-        #floor plans
-        #self.HelplineNumber
-        
-        
 class Lift:
     def __init__(self, lift_id=None, location=None, weight_capacity=None, maximum_people_carried=None, emergency_caller=None, fan_working_condition=None, light_working_condition=None, maximum_floors_taken=None, employee_incharge=None, supplier=None):
         self.LiftID = lift_id
@@ -84,7 +78,6 @@ class Lift:
         self.EmployeeIncharge = employee_incharge
         self.Supplier = supplier
 
-    # Getter methods
     def get_lift_id(self):
         return self.LiftID
 
@@ -115,7 +108,6 @@ class Lift:
     def get_supplier(self):
         return self.Supplier
 
-    # Setter methods
     def set_lift_id(self, lift_id):
         self.LiftID = lift_id
 
@@ -146,7 +138,6 @@ class Lift:
     def set_supplier(self, supplier):
         self.Supplier = supplier
 
-        #self.floorNo
         
 class Employee:
     def __init__(self, name=None, employee_id=None, years_of_experience=None, date_of_join=None, department=None, designation=None, availability=None, team_name=None, work_assigned=None, salary=None, work_hours=None, qualification=None):
@@ -163,7 +154,6 @@ class Employee:
         self.WorkHours = work_hours
         self.Qualification = qualification
 
-    # Getter methods
     def get_name(self):
         return self.Name
 
@@ -200,7 +190,6 @@ class Employee:
     def get_qualification(self):
         return self.Qualification
 
-    # Setter methods
     def set_name(self, name):
         self.Name = name
 
@@ -251,7 +240,6 @@ class Employee_Personal:
         self.EmergencyContact = emergency_contact
         self.EmailID = email_id
 
-    # Getter methods
     def get_name(self):
         return self.Name
 
@@ -282,7 +270,6 @@ class Employee_Personal:
     def get_email_id(self):
         return self.EmailID
 
-    # Setter methods
     def set_name(self, name):
         self.Name = name
 
@@ -326,7 +313,6 @@ class Room:
         self.NoOfLights = no_of_lights
         self.FloorNumber = floor_number
 
-    # Getter methods
     def get_room_number(self):
         return self.RoomNumber
 
@@ -354,7 +340,6 @@ class Room:
     def get_floor_number(self):
         return self.FloorNumber
 
-    # Setter methods
     def set_room_number(self, room_number):
         self.RoomNumber = room_number
 
@@ -393,7 +378,6 @@ class Repair:
         self.NumberOfComponents = number_of_components
         self.PersonName = person_name
 
-    # Getter methods
     def get_object_repaired(self):
         return self.ObjectRepaired
 
@@ -415,7 +399,6 @@ class Repair:
     def get_person_name(self):
         return self.PersonName
 
-    # Setter methods
     def set_object_repaired(self, object_repaired):
         self.ObjectRepaired = object_repaired
 
@@ -448,7 +431,6 @@ class Floor:
         self.FloorNumber = floor_number
         self.NoOfMeetingRooms = no_of_meeting_rooms
 
-    # Getter methods
     def get_no_of_rooms(self):
         return self.NoOfRooms
 
@@ -470,7 +452,6 @@ class Floor:
     def get_no_of_meeting_rooms(self):
         return self.NoOfMeetingRooms
 
-    # Setter methods
     def set_no_of_rooms(self, no_of_rooms):
         self.NoOfRooms = no_of_rooms
 
@@ -503,7 +484,6 @@ class VisitorLog:
         self.CheckOutTime = check_out_time
         self.HostEmployee = host_employee
 
-    # Getter methods
     def get_visitor_name(self):
         return self.VisitorName
 
@@ -522,7 +502,6 @@ class VisitorLog:
     def get_host_employee(self):
         return self.HostEmployee
 
-    # Setter methods
     def set_visitor_name(self, visitor_name):
         self.VisitorName = visitor_name
 
@@ -551,7 +530,6 @@ class FacilityMaintenance:
         self.CompletionStatus = completion_status
         self.AssignedStaff = assigned_staff
 
-    # Getter methods
     def get_maintenance_id(self):
         return self.maintenanceID
 
@@ -570,7 +548,6 @@ class FacilityMaintenance:
     def get_assigned_staff(self):
         return self.AssignedStaff
 
-    # Setter methods
     def set_maintenance_id(self, maintenance_id):
         self.maintenanceID = maintenance_id
 
@@ -603,7 +580,6 @@ class Event:
         self.RegistrationRequired = registration_required
         self.RegistrationLink = registration_link
 
-    # Getter methods
     def get_event_name(self):
         return self.EventName
 
@@ -634,7 +610,6 @@ class Event:
     def get_registration_link(self):
         return self.RegistrationLink
 
-    # Setter methods
     def set_event_name(self, event_name):
         self.EventName = event_name
 
@@ -665,37 +640,38 @@ class Event:
     def set_registration_link(self, registration_link):
         self.RegistrationLink = registration_link
 
+
 class TechEvent(Event):
-    def _init_(self, techFocus=None):
+    def __init__(self, techFocus=None):
+        super().__init__()
         self.TechnologyFocus = techFocus
         
-    # Getter methods
     def get_topic(self):
         return self.TechnologyFocus
     
-    # Setter methods
     def set_topic(self, techFocus):
         self.TechnologyFocus = techFocus
     
+
 class CommunityEvent(Event):
-    def _init_(self, topic=None, Community=None):
+    def __init__(self, topic=None, Community=None):
+        super().__init__()
         self.Topic = topic
         self.CommunityType = Community
     
-    # Getter methods
     def get_topic(self):
         return self.Topic
 
     def get_community_type(self):
         return self.CommunityType
 
-    # Setter methods
     def set_topic(self, topic):
         self.Topic = topic
 
     def set_community_type(self, community_type):
         self.CommunityType = community_type
         
+
 class Company:
     def __init__(self, name=None, address=None, industry=None, employee_count=None, revenue=None):
         self.Name = name
@@ -704,7 +680,6 @@ class Company:
         self.EmployeeCount = employee_count
         self.Revenue = revenue
 
-    # Getter methods
     def get_name(self):
         return self.Name
 
@@ -720,7 +695,6 @@ class Company:
     def get_revenue(self):
         return self.Revenue
 
-    # Setter methods
     def set_name(self, name):
         self.Name = name
 
@@ -735,5 +709,3 @@ class Company:
 
     def set_revenue(self, revenue):
         self.Revenue = revenue
-#floor no and room no
-    #visiter logs

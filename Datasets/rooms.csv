@@ -1,0 +1,54 @@
+RoomNumber,FloorNumber,Dimension,Usage,NoOfPC,NoOfWindows,NoOfTables,NoOfFans,NoOfLights,OccupiedBy,Status
+G01,Ground,800 sq ft,Reception,2,4,2,2,8,Tech Park Management,Occupied
+G02,Ground,600 sq ft,Security Office,3,2,3,2,6,Security Team,Occupied
+G03,Ground,1200 sq ft,Cafeteria,0,6,20,4,12,Food Services,Occupied
+G04,Ground,400 sq ft,Storage,0,1,0,1,4,Maintenance,Occupied
+101,1,1000 sq ft,Office,15,4,15,3,10,Tech Innovations Inc.,Occupied
+102,1,1000 sq ft,Office,15,4,15,3,10,BioTech Solutions Ltd.,Occupied
+103,1,800 sq ft,Office,10,3,10,2,8,Vacant,Vacant
+104,1,800 sq ft,Office,10,3,10,2,8,Vacant,Vacant
+105,1,600 sq ft,Meeting Room,0,2,1,2,6,Shared,Available
+106,1,1200 sq ft,Office,20,5,20,4,12,CleanEnergy Technologies,Occupied
+201,2,1000 sq ft,Office,15,4,15,3,10,RoboWorks Robotics,Occupied
+202,2,1000 sq ft,Office,15,4,15,3,10,Data Tech Analytics,Occupied
+203,2,800 sq ft,Office,10,3,10,2,8,SecureTech Solutions,Occupied
+204,2,800 sq ft,Office,10,3,10,2,8,Vacant,Vacant
+205,2,600 sq ft,Meeting Room,0,2,1,2,6,Shared,Available
+206,2,1200 sq ft,Office,20,5,20,4,12,NetWorks Ltd.,Occupied
+301,3,1000 sq ft,Office,15,4,15,3,10,TechSolutions Inc.,Occupied
+302,3,1000 sq ft,Office,15,4,15,3,10,CloudFirst Technologies,Occupied
+303,3,800 sq ft,Office,10,3,10,2,8,AI Dynamics Corp.,Occupied
+304,3,800 sq ft,Office,10,3,10,2,8,Vacant,Vacant
+305,3,600 sq ft,Meeting Room,0,2,1,2,6,Shared,Available
+306,3,1200 sq ft,Office,20,5,20,4,12,QuantumLeap Systems,Occupied
+401,4,1000 sq ft,Office,15,4,15,3,10,NanoTech Industries,Occupied
+402,4,1000 sq ft,Office,15,4,15,3,10,SmartCity Solutions,Occupied
+403,4,800 sq ft,Office,10,3,10,2,8,Vacant,Vacant
+404,4,800 sq ft,Office,10,3,10,2,8,Vacant,Vacant
+405,4,600 sq ft,Meeting Room,0,2,1,2,6,Shared,Available
+406,4,1200 sq ft,Office,20,5,20,4,12,HealthTech Innovations,Occupied
+501,5,1000 sq ft,Office,15,4,15,3,10,FinTech Dynamics,Occupied
+502,5,1000 sq ft,Office,15,4,15,3,10,EduTech Systems,Occupied
+503,5,800 sq ft,Office,10,3,10,2,8,AgriTech Solutions,Occupied
+504,5,800 sq ft,Office,10,3,10,2,8,Vacant,Vacant
+505,5,600 sq ft,Meeting Room,0,2,1,2,6,Shared,Available
+506,5,1200 sq ft,Office,20,5,20,4,12,SpaceTech Ventures,Occupied
+601,6,1000 sq ft,Office,15,4,15,3,10,AutoTech Industries,Occupied
+602,6,1000 sq ft,Office,15,4,15,3,10,MediaTech Corp.,Occupied
+603,6,800 sq ft,Office,10,3,10,2,8,Vacant,Vacant
+604,6,800 sq ft,Office,10,3,10,2,8,Vacant,Vacant
+605,6,600 sq ft,Meeting Room,0,2,1,2,6,Shared,Available
+606,6,1200 sq ft,Office,20,5,20,4,12,GameDev Studios,Occupied
+701,7,1000 sq ft,Office,15,4,15,3,10,VR Innovations,Occupied
+702,7,1000 sq ft,Office,15,4,15,3,10,AR Technologies,Occupied
+703,7,800 sq ft,Office,10,3,10,2,8,Vacant,Vacant
+704,7,800 sq ft,Office,10,3,10,2,8,Vacant,Vacant
+705,7,600 sq ft,Meeting Room,0,2,1,2,6,Shared,Available
+706,7,1200 sq ft,Office,20,5,20,4,12,Blockchain Systems,Occupied
+801,8,1000 sq ft,Office,15,4,15,3,10,IoT Solutions Inc.,Occupied
+802,8,1000 sq ft,Office,15,4,15,3,10,DroneWorks Ltd.,Occupied
+803,8,800 sq ft,Office,10,3,10,2,8,Vacant,Vacant
+804,8,800 sq ft,Office,10,3,10,2,8,Vacant,Vacant
+901,9,1500 sq ft,Conference Hall,0,8,50,6,20,Shared,Available
+902,9,1000 sq ft,Training Room,20,4,20,3,12,Shared,Available
+903,9,800 sq ft,Meeting Room,0,3,1,2,8,Shared,Available

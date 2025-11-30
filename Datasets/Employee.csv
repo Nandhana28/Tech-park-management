@@ -1,11 +1,51 @@
 Name,EmployeeID,YearsOfExperience,DateOfJoin,Department,Designation,Availability,TeamName,WorkAssigned,Salary,WorkHours,Qualification
-John Doe,10EMP30,5,12-01-2017,Stock,Team leader,Day,A,Lead team A,100000,8,Bachelors
-Emily Smith,20EMP34,7,17-09-2013,Engineering,Engineer,Night,Zec,Design,150000,9,Bachelors
-Mohammed Khan,10EMP96,2,28-06-2014,Stock,Dept Head,Night,A,Management of teams,200000,6,Bachelors
-Anna Johnson,10EMP100,10,30-12-2016,Engineering,Programmer,Day,Zec,Program new software,250000,9,Masters
-Carlos Rodriguez,20EMP10,6,01-01-2017,Stock,Data Analyst,Day,A,Analyse current data flow,30000,5,Masters
-Jessica Martinez,50EMP11,5,16-02-2020,Cleaning Service,Cleaner,Day,Cleaning team,Clean floors and restrooms,8000,10,12th Pass
-Sophia Nguyen,50EMP88,4,20-08-2015,Cleaning Service,Restocker,Day,Cleaning team,Restock water suppliers,11000,2,11th Pass
-Christopher Anderson,70EMP45,8,06-04-2010,Security,Watchman,Day,Guard,Guard the compound,20000,8,10th Pass
-Amanda Hernandez,80EMP29,11,19-03-2005,Lift Maintenance,Lift security,Day,Guard,Guard from lift risks,9000,7,11th Pass
-Mia Jackson,70EMP90,7,31-04-2000,Security,Watchman,Night,Guard,Guard the compound,25000,5,12th Pass
+John Doe,EMP001,5,12-01-2019,Engineering,Senior Engineer,Day,Alpha,Backend Development,95000,8,Bachelors
+Emily Smith,EMP002,7,17-09-2017,Engineering,Lead Engineer,Day,Alpha,System Architecture,125000,9,Masters
+Mohammed Khan,EMP003,3,28-06-2021,IT Support,Support Specialist,Day,Beta,Technical Support,55000,8,Bachelors
+Anna Johnson,EMP004,10,30-12-2014,Engineering,Principal Engineer,Day,Alpha,Full Stack Development,145000,9,Masters
+Carlos Rodriguez,EMP005,6,01-01-2018,Data Analytics,Data Analyst,Day,Gamma,Data Analysis,85000,8,Masters
+Jessica Martinez,EMP006,4,16-02-2020,Facilities,Facility Manager,Day,Delta,Facility Management,65000,8,Bachelors
+Sophia Nguyen,EMP007,8,20-08-2016,HR,HR Manager,Day,Epsilon,Recruitment,95000,8,Masters
+Christopher Anderson,EMP008,12,06-04-2012,Security,Security Manager,Day,Zeta,Security Operations,75000,8,Bachelors
+Amanda Hernandez,EMP009,9,19-03-2015,Finance,Finance Manager,Day,Eta,Financial Planning,105000,8,Masters
+Mia Jackson,EMP010,6,31-05-2018,Security,Security Officer,Night,Zeta,Night Patrol,48000,8,Diploma
+Robert Taylor,EMP011,4,15-07-2020,Engineering,Software Engineer,Day,Alpha,Frontend Development,78000,8,Bachelors
+Jennifer White,EMP012,5,22-09-2019,Marketing,Marketing Manager,Day,Theta,Brand Management,88000,8,Masters
+David Brown,EMP013,7,10-11-2017,Engineering,DevOps Engineer,Day,Beta,Infrastructure,92000,8,Bachelors
+Sarah Wilson,EMP014,3,18-03-2021,IT Support,IT Technician,Day,Beta,Hardware Support,52000,8,Diploma
+Michael Davis,EMP015,11,25-05-2013,Engineering,Engineering Manager,Day,Alpha,Team Leadership,135000,9,Masters
+Lisa Garcia,EMP016,6,08-08-2018,Data Analytics,Senior Analyst,Day,Gamma,Business Intelligence,89000,8,Masters
+James Miller,EMP017,4,14-10-2020,Facilities,Maintenance Tech,Day,Delta,Equipment Maintenance,58000,8,Diploma
+Patricia Martinez,EMP018,8,20-12-2016,HR,HR Specialist,Day,Epsilon,Employee Relations,72000,8,Bachelors
+Daniel Rodriguez,EMP019,5,28-02-2019,Finance,Accountant,Day,Eta,Accounting,68000,8,Bachelors
+Maria Lopez,EMP020,7,05-04-2017,Security,Security Supervisor,Day,Zeta,Team Supervision,62000,8,Bachelors
+Thomas Anderson,EMP021,3,12-06-2021,Engineering,Junior Engineer,Day,Alpha,Mobile Development,65000,8,Bachelors
+Elizabeth Taylor,EMP022,9,18-08-2015,Marketing,Senior Marketing Exec,Day,Theta,Campaign Management,95000,8,Masters
+Charles Wilson,EMP023,6,25-10-2018,Engineering,QA Engineer,Day,Beta,Quality Assurance,82000,8,Bachelors
+Barbara Moore,EMP024,4,02-12-2020,IT Support,Network Admin,Day,Beta,Network Management,72000,8,Bachelors
+Joseph Jackson,EMP025,10,10-02-2014,Engineering,Tech Lead,Day,Alpha,Technical Leadership,128000,9,Masters
+Susan White,EMP026,5,18-04-2019,Data Analytics,Data Scientist,Day,Gamma,Machine Learning,98000,8,Masters
+Richard Harris,EMP027,7,25-06-2017,Facilities,Facility Coordinator,Day,Delta,Space Planning,64000,8,Bachelors
+Linda Martin,EMP028,8,02-08-2016,HR,Talent Acquisition,Day,Epsilon,Hiring,78000,8,Bachelors
+Christopher Thompson,EMP029,4,10-10-2020,Finance,Financial Analyst,Day,Eta,Budget Analysis,71000,8,Bachelors
+Nancy Garcia,EMP030,6,18-12-2018,Security,Access Control,Day,Zeta,Entry Management,54000,8,Diploma
+Matthew Martinez,EMP031,3,25-02-2021,Engineering,Software Developer,Day,Alpha,API Development,72000,8,Bachelors
+Karen Robinson,EMP032,9,05-04-2015,Marketing,Content Manager,Day,Theta,Content Strategy,86000,8,Masters
+Mark Clark,EMP033,5,12-06-2019,Engineering,Cloud Engineer,Day,Beta,Cloud Infrastructure,94000,8,Bachelors
+Betty Rodriguez,EMP034,7,20-08-2017,IT Support,Systems Admin,Day,Beta,Server Management,79000,8,Bachelors
+Donald Lewis,EMP035,11,28-10-2013,Engineering,Solutions Architect,Day,Alpha,Architecture Design,142000,9,Masters
+Helen Lee,EMP036,4,05-12-2020,Data Analytics,BI Developer,Day,Gamma,Dashboard Development,76000,8,Bachelors
+Steven Walker,EMP037,6,12-02-2018,Facilities,Building Manager,Day,Delta,Building Operations,69000,8,Bachelors
+Dorothy Hall,EMP038,8,20-04-2016,HR,Compensation Analyst,Day,Epsilon,Salary Planning,81000,8,Masters
+Paul Allen,EMP039,5,28-06-2019,Finance,Tax Specialist,Day,Eta,Tax Compliance,74000,8,Bachelors
+Sandra Young,EMP040,7,05-08-2017,Security,CCTV Operator,Night,Zeta,Surveillance,51000,8,Diploma
+Kenneth Hernandez,EMP041,3,12-10-2021,Engineering,UI/UX Designer,Day,Alpha,Interface Design,69000,8,Bachelors
+Donna King,EMP042,9,20-12-2015,Marketing,Digital Marketing,Day,Theta,Online Campaigns,92000,8,Masters
+Jason Wright,EMP043,6,28-02-2018,Engineering,Database Admin,Day,Beta,Database Management,87000,8,Bachelors
+Carol Lopez,EMP044,4,05-04-2020,IT Support,Help Desk Lead,Day,Beta,Support Coordination,66000,8,Bachelors
+Brian Hill,EMP045,10,12-06-2014,Engineering,Product Manager,Day,Alpha,Product Strategy,132000,9,Masters
+Michelle Scott,EMP046,5,20-08-2019,Data Analytics,Analytics Manager,Day,Gamma,Team Management,102000,8,Masters
+Kevin Green,EMP047,7,28-10-2017,Facilities,Safety Officer,Day,Delta,Safety Compliance,67000,8,Bachelors
+Ashley Adams,EMP048,8,05-12-2016,HR,Training Manager,Day,Epsilon,Employee Development,84000,8,Masters
+Timothy Baker,EMP049,4,12-02-2020,Finance,Payroll Specialist,Day,Eta,Payroll Processing,63000,8,Bachelors
+Deborah Nelson,EMP050,6,20-04-2018,Security,Emergency Response,Day,Zeta,Crisis Management,59000,8,Bachelors

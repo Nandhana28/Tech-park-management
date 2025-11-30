@@ -1,0 +1,6 @@
+Username,Password,Email,SecurityQuestion,SecurityAnswer,Role
+Jelena,1234,jelena@techpark.com,What is your favorite color?,Blue,Admin
+Nandhana,5678,nandhana@techpark.com,What is your pet's name?,Max,Admin
+admin,admin123,admin@techpark.com,What city were you born in?,Seattle,Admin
+manager,manager123,manager@techpark.com,What is your mother's maiden name?,Smith,Manager
+user,user123,user@techpark.com,What was your first car?,Toyota,User

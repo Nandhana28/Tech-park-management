@@ -1,4 +1,51 @@
 Event Name,Date,Time,Location,Attendees Limit,Organizer,Description,Theme,Registration required,Registration link
-Tech Talk Series:Cybersecurity Trends,10-05-2024,14:00-16:00,Tech Park Auditorium,50,Tech Solutions Inc.,Join us for an insightful session on the latest cybersecurity trends and best practices. Industry experts will discuss emerging threats and strategies to enhance digital security.,Cybersecurity,Yes,techtalkreg.com
-Tech Talk Series:Cybersecurity Trends,11-05-2024,14:00-16:01,Tech Park Auditorium,51,Tech Solutions Inc.,Join us for an insightful session on the latest cybersecurity trends and best practices. Industry experts will discuss emerging threats and strategies to enhance digital security.,Cybersecurity,Yes,techtalkreg.com
-Tech Talk Series:Cybersecurity Trends,12-05-2024,14:00-16:02,Tech Park Auditorium,52,Tech Solutions Inc.,Join us for an insightful session on the latest cybersecurity trends and best practices. Industry experts will discuss emerging threats and strategies to enhance digital security.,Cybersecurity,Yes,techtalkreg.com
+Tech Talk: AI in Healthcare,10-01-2023,14:00,Tech Park Auditorium,100,Tech Innovations Inc.,Exploring AI applications in modern healthcare,Artificial Intelligence,Yes,techpark.com/ai-health
+Cybersecurity Workshop,15-02-2023,10:00,Conference Room A,50,SecureTech Solutions,Hands-on cybersecurity training,Security,Yes,techpark.com/cyber-workshop
+Startup Networking Mixer,20-03-2023,18:00,Rooftop Lounge,150,BioTech Solutions Ltd.,Connect with fellow entrepreneurs,Networking,No,N/A
+Cloud Computing Seminar,05-04-2023,13:00,Main Hall,200,Data Tech Analytics,Introduction to cloud technologies,Cloud Computing,Yes,techpark.com/cloud-seminar
+Green Energy Summit,12-05-2023,09:00,Convention Center,300,CleanEnergy Technologies,Sustainable energy solutions,Sustainability,Yes,techpark.com/green-summit
+Robotics Demo Day,18-06-2023,15:00,Innovation Lab,80,RoboWorks Robotics,Live robotics demonstrations,Robotics,No,N/A
+Data Science Bootcamp,25-07-2023,10:00,Training Center,60,Data Tech Analytics,Intensive data science training,Data Science,Yes,techpark.com/ds-bootcamp
+Product Launch Event,02-08-2023,17:00,Grand Ballroom,250,Tech Innovations Inc.,New product unveiling,Product Launch,Yes,techpark.com/product-launch
+Blockchain Conference,10-09-2023,09:00,Tech Park Auditorium,180,TechSolutions Inc.,Blockchain technology and applications,Blockchain,Yes,techpark.com/blockchain-conf
+UX Design Workshop,15-10-2023,14:00,Design Studio,40,NetWorks Ltd.,User experience best practices,Design,Yes,techpark.com/ux-workshop
+IoT Innovation Forum,22-11-2023,11:00,Conference Hall,120,RoboWorks Robotics,Internet of Things innovations,IoT,Yes,techpark.com/iot-forum
+Year End Celebration,15-12-2023,19:00,Main Atrium,500,Tech Park Management,Annual celebration party,Celebration,No,N/A
+Machine Learning Summit,08-01-2023,10:00,Tech Hub,150,Data Tech Analytics,Advanced ML techniques,Machine Learning,Yes,techpark.com/ml-summit
+Mobile App Dev Workshop,14-02-2023,13:00,Dev Lab,70,Tech Innovations Inc.,Mobile development masterclass,Mobile Development,Yes,techpark.com/mobile-workshop
+Quantum Computing Talk,20-03-2023,15:00,Research Center,90,TechSolutions Inc.,Introduction to quantum computing,Quantum Computing,Yes,techpark.com/quantum-talk
+Agile Methodology Training,25-04-2023,09:00,Training Room,50,NetWorks Ltd.,Agile and Scrum practices,Project Management,Yes,techpark.com/agile-training
+5G Technology Expo,10-05-2023,11:00,Exhibition Hall,200,SecureTech Solutions,5G network demonstrations,Telecommunications,No,N/A
+Virtual Reality Showcase,15-06-2023,14:00,VR Lab,60,RoboWorks Robotics,VR technology experiences,Virtual Reality,Yes,techpark.com/vr-showcase
+DevOps Best Practices,22-07-2023,10:00,Tech Theater,100,Data Tech Analytics,DevOps implementation strategies,DevOps,Yes,techpark.com/devops-best
+Fintech Innovation Day,05-08-2023,13:00,Finance Wing,130,BioTech Solutions Ltd.,Financial technology trends,Fintech,Yes,techpark.com/fintech-day
+Smart City Solutions,12-09-2023,09:00,City Hall,180,CleanEnergy Technologies,Urban technology innovations,Smart Cities,Yes,techpark.com/smart-city
+API Development Workshop,18-10-2023,14:00,Code Lab,55,Tech Innovations Inc.,RESTful API design,API Development,Yes,techpark.com/api-workshop
+Augmented Reality Demo,25-11-2023,16:00,AR Studio,75,RoboWorks Robotics,AR applications showcase,Augmented Reality,No,N/A
+Tech Career Fair,02-12-2023,10:00,Main Lobby,400,Tech Park HR,Job opportunities in tech,Career Development,No,N/A
+Python Programming Course,09-01-2023,13:00,Computer Lab,45,Data Tech Analytics,Python fundamentals,Programming,Yes,techpark.com/python-course
+Digital Marketing Seminar,16-02-2023,15:00,Marketing Suite,85,NetWorks Ltd.,Online marketing strategies,Marketing,Yes,techpark.com/digital-marketing
+Edge Computing Forum,23-03-2023,11:00,Tech Auditorium,110,TechSolutions Inc.,Edge computing technologies,Edge Computing,Yes,techpark.com/edge-forum
+Startup Pitch Competition,28-04-2023,14:00,Pitch Arena,200,Tech Innovations Inc.,Entrepreneurs pitch ideas,Entrepreneurship,Yes,techpark.com/pitch-comp
+3D Printing Workshop,15-05-2023,10:00,Maker Space,50,RoboWorks Robotics,3D printing techniques,Manufacturing,Yes,techpark.com/3d-printing
+Cybersecurity Awareness,20-06-2023,09:00,Security Center,150,SecureTech Solutions,Security awareness training,Security,No,N/A
+Big Data Analytics,28-07-2023,13:00,Data Center,95,Data Tech Analytics,Big data processing,Big Data,Yes,techpark.com/big-data
+Clean Tech Expo,05-08-2023,11:00,Green Pavilion,220,CleanEnergy Technologies,Clean technology showcase,Clean Technology,Yes,techpark.com/cleantech-expo
+Software Testing Workshop,12-09-2023,14:00,QA Lab,60,NetWorks Ltd.,Testing methodologies,Quality Assurance,Yes,techpark.com/testing-workshop
+Drone Technology Demo,18-10-2023,16:00,Outdoor Arena,100,RoboWorks Robotics,Drone applications,Drones,No,N/A
+Cloud Security Summit,25-11-2023,09:00,Security Hall,140,SecureTech Solutions,Cloud security best practices,Cloud Security,Yes,techpark.com/cloud-security
+JavaScript Bootcamp,02-12-2023,10:00,Web Lab,55,Tech Innovations Inc.,Modern JavaScript development,Web Development,Yes,techpark.com/js-bootcamp
+Renewable Energy Forum,10-01-2023,13:00,Energy Center,170,CleanEnergy Technologies,Renewable energy solutions,Renewable Energy,Yes,techpark.com/renewable-forum
+Database Management,15-02-2023,15:00,DB Lab,65,Data Tech Analytics,Database optimization,Database,Yes,techpark.com/db-management
+Tech Leadership Summit,22-03-2023,09:00,Leadership Hall,120,Tech Park Management,Leadership in technology,Leadership,Yes,techpark.com/leadership-summit
+Microservices Architecture,28-04-2023,11:00,Architecture Lab,80,TechSolutions Inc.,Microservices design patterns,Architecture,Yes,techpark.com/microservices
+Innovation Hackathon,15-05-2023,08:00,Hack Space,150,Tech Innovations Inc.,24-hour coding challenge,Hackathon,Yes,techpark.com/hackathon
+AI Ethics Discussion,20-06-2023,14:00,Ethics Forum,90,BioTech Solutions Ltd.,Ethical considerations in AI,Ethics,Yes,techpark.com/ai-ethics
+Container Technology,28-07-2023,10:00,Container Lab,70,NetWorks Ltd.,Docker and Kubernetes,Containers,Yes,techpark.com/containers
+Smart Home Tech Expo,05-08-2023,13:00,Home Tech Center,160,RoboWorks Robotics,Smart home innovations,Smart Home,No,N/A
+Git Version Control,12-09-2023,15:00,Version Lab,50,Tech Innovations Inc.,Git best practices,Version Control,Yes,techpark.com/git-workshop
+Quantum Cryptography,18-10-2023,11:00,Crypto Lab,75,SecureTech Solutions,Quantum encryption methods,Cryptography,Yes,techpark.com/quantum-crypto
+Tech Trends 2024,25-11-2023,09:00,Future Hall,250,Tech Park Management,Emerging technology trends,Future Tech,Yes,techpark.com/trends-2024
+React Development,02-12-2023,14:00,React Lab,60,Data Tech Analytics,React framework mastery,Frontend,Yes,techpark.com/react-dev
+Sustainability Workshop,10-12-2023,10:00,Green Room,85,CleanEnergy Technologies,Sustainable business practices,Sustainability,Yes,techpark.com/sustainability
+Network Security,15-12-2023,13:00,Network Lab,95,SecureTech Solutions,Network protection strategies,Network Security,Yes,techpark.com/network-security

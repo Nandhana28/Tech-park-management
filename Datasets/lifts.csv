@@ -1,0 +1,5 @@
+LiftID,Location,WeightCapacity,MaximumPeopleCarried,EmergencyCaller,FanWorkingCondition,LightWorkingCondition,MaximumFloorsTaken,EmployeeIncharge,Supplier,Status
+LIFT-A1,North Wing,1000 kg,13,Active,Working,Working,10,Christopher Anderson,Otis,Operational
+LIFT-A2,North Wing,1000 kg,13,Active,Working,Working,10,Christopher Anderson,Otis,Operational
+LIFT-B1,South Wing,1000 kg,13,Active,Working,Working,10,Amanda Hernandez,Schindler,Operational
+LIFT-B2,South Wing,1000 kg,13,Active,Working,Working,10,Amanda Hernandez,Schindler,Under Maintenance
